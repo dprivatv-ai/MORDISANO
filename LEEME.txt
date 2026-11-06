@@ -1,0 +1,23 @@
+MORDISANO - Sitio web multipágina
+
+ARCHIVOS
+- index.html: página de inicio
+- productos.html: catálogo
+- nosotros.html: información de la empresa
+- consultaespecialista.html: formulario de contacto y preguntas frecuentes
+- noticias.html: artículos y consejos
+- styles.css / script.js: estilos y funciones compartidas
+- robots.txt / sitemap.xml: archivos iniciales para rastreo SEO
+
+ANTES DE PUBLICAR
+1. En script.js, reemplaza 51999999999 por el WhatsApp oficial de MORDISANO (código de país + número, sin + ni espacios).
+2. Reemplaza las fotografías ilustrativas por fotografías reales de los empaques y productos.
+3. Confirma ingredientes, composición, stock, precios, cobertura y condiciones de entrega.
+4. Si se ofrece una consulta profesional, identifica al especialista, sus credenciales, disponibilidad, modalidad y tarifas. El formulario actual solo prepara un mensaje de WhatsApp.
+5. Revisa los textos legales, política de privacidad, términos de compra y datos comerciales reales.
+
+PUBLICACIÓN EN GITHUB PAGES
+Sube el contenido de esta carpeta al repositorio que publica la web, conservando los nombres de archivo. La página principal debe quedar como index.html en la raíz publicada.
+
+NOTA
+No hay pasarela de pago ni cobro automático. Los botones de compra abren WhatsApp para coordinar el pedido. Los precios mostrados son referenciales y se tomaron de la web anterior.
